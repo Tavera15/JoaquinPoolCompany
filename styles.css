@@ -36,6 +36,12 @@ html, body{
 	font-size: 1.5rem;
 }
 
+.nav-phone{
+	position: absolute;
+	right: 40px;
+	top: 15px;
+	color: white;
+}
 
 /*Header*/
 
@@ -121,7 +127,6 @@ html, body{
 }
 
 .contact-info{
-	padding: 4rem 0;
 	margin-top: 3rem;
 	background-color: black;
 	color: white;
@@ -129,7 +134,7 @@ html, body{
 
 .ci-interior{
 	border: 1px solid #CEB964;
-	padding: 2rem;
+	padding: 4rem;
 }
 
 .ci-interior h2{
